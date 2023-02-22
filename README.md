@@ -1,7 +1,7 @@
 # <p align="center">Prim's and Disjsktra's Algorithm Program<p>
 
 
-This is a program of a popular known algorithm: Prim's and Disjsktra's. The website here provides a great explanation: https://medium.com/@shagunaawasthi/prims-implementation-using-dijkstra-230355b8352a
+This is a program of a popular algorithm: Prim's and Disjsktra's. The website here provides a great explanation: https://medium.com/@shagunaawasthi/prims-implementation-using-dijkstra-230355b8352a
 
 My program is essentially a map of maps, allowing for direct indexing with low memory usage. Then the algorithms follow the same logic, and uses a trick regarding the priority queue which works well. Performance is the minimum bound of these algorithms. My implementation is O(NLogn). 
 
