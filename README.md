@@ -1,6 +1,5 @@
 # <p align="center">Prim's and Disjsktra's Algorithm Program<p>
 
-**Introduction**
 
 This is a program of a popular known algorithm: Prim's and Disjsktra's. The website here provides a great explanation: https://medium.com/@shagunaawasthi/prims-implementation-using-dijkstra-230355b8352a
 
