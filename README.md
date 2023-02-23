@@ -9,4 +9,4 @@ The graph.h file declares the members and functions of the class to be used in t
 
 The graph_tests.cpp file contains the main driver program for the Project. This file provides test cases for the Graph class and all it's functions. All test values are hard coded since there is no user input. It prints to screen the of the number of vertices, edges, and both Prim & Dijsktra's shortest paths from the given vertice and the distance.
 
-I recieved a perfect score for this end of semester project graded on code correctness 60/60 points, test cases 30/30 points, and coding standards 10/10 points. 
+I recieved a perfect score for this end of semester project graded on code correctness 60/60 points, test cases 30/30 points, and coding standards 10/10 points. It was only 3 students out of roughly a hundred who also earned a perfect score. 
